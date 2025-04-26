@@ -1,0 +1,4 @@
+*.bat
+*.config
+config.py
+__pycache__/
