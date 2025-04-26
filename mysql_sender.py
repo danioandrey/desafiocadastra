@@ -1,5 +1,3 @@
-import sqlite3
-from datetime import datetime 
 import mysql.connector
 from config import mysql_connection
 
