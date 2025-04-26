@@ -2,7 +2,6 @@ import mysql.connector
 from config import mysql_connection
 
 
-DATABASE_NAME = "crypto_data.db"
 
 def connection():
     conn = mysql.connector.connect(
