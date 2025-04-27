@@ -30,15 +30,18 @@ Necessário ter instalado o python 3.9.5 ou superior e o mysql server.
     pip install -r requirements.txt
     ```
 3.  Deve ser criado um arquivo chamado config.py e incluir os valores abaixo:
-    ```mysql_connection = {
+    ```bash
+        mysql_connection = {
         'host':'seu host',
         'user':'seu usuário',
         'password':'sua senha',
         'database':'seu database'
-    }
-
+        }
+    ```
+    ```bash
     api_config = {
-        'key':'sua key da api'}```
+        'key':'sua key da api'}
+    ```
 
 4. Caso a tabela ainda não exista, executar o scrit que contem no arquivo ddl.sql em seu banco de dados.
 
