@@ -1,7 +1,7 @@
 # desafiocadastra
 [![Status do Projeto](https://img.shields.io/badge/status-concluído-brightgreen)](https://github.com/danioandrey/desafiocadastra)
 [![Linguagem](https://img.shields.io/badge/linguagem-Python-blue)](https://www.python.org/)
-[![Última Commits](https://github.com/danioandrey/desafiocadastra/commits/main)]
+[![Últimos Commits](https://img.shields.io/github/last-commit/danioandrey/desafiocadastra)](https://github.com/danioandrey/desafiocadastra/commits/main)
 
 ## Descrição
 
