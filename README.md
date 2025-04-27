@@ -22,8 +22,8 @@ Necessário ter instalado o python 3.9.5 ou superior e o mysql server.
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/danioandrey/desafiocadastra.git](https://github.com/danioandrey/desafiocadastra.git)
-    cd seu-projeto
+    git clone https://github.com/danioandrey/desafiocadastra.git
+    cd desafiocadastra
     ```
 2.  Instale as dependências Python (se houver):
     ```bash
